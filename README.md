@@ -19,7 +19,7 @@
 | [Mini Message Board](https://www.theodinproject.com/lessons/nodejs-mini-message-board) | Pending... | Pending...
 | [Basic Informational Site](https://www.theodinproject.com/lessons/nodejs-basic-informational-site) | Pending... | Pending...
 | [Shopping Cart](https://www.theodinproject.com/lessons/node-path-react-new-shopping-cart) | Pending... | Pending...
-| [Memory Card](https://www.theodinproject.com/lessons/node-path-react-new-memory-card) | Pending... | Pending...
+| [Memory Card](https://www.theodinproject.com/lessons/node-path-react-new-memory-card) | Jan 4, 2023 | [Source Code](https://github.com/jesusgraterol/memory-card-top)
 | [CV Application](https://www.theodinproject.com/lessons/node-path-react-new-cv-application) | Dec 29, 2023 | [Source Code](https://github.com/jesusgraterol/cv-application-top)
 | [Homepage](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-homepage) | Nov 28, 2023 | [Source Code](https://github.com/jesusgraterol/maryluna)
 | [Battleship](https://www.theodinproject.com/lessons/node-path-javascript-battleship) | Nov 15, 2023 | [Source Code](https://github.com/jesusgraterol/battleship-top)
@@ -48,7 +48,7 @@
 
 ## Exercises 
 
-| Name | Date | Submission
-| ---- | ---- | -----------
-| [CSS](https://github.com/TheOdinProject/css-exercises) | N/A | [Source Code](https://github.com/jesusgraterol/css-exercises)
-| [JavaScript](https://github.com/TheOdinProject/javascript-exercises) | N/A | [Source Code](https://github.com/jesusgraterol/javascript-exercises-top)
+| Name | Submission
+| ---- | -----------
+| [CSS](https://github.com/TheOdinProject/css-exercises) | [Source Code](https://github.com/jesusgraterol/css-exercises)
+| [JavaScript](https://github.com/TheOdinProject/javascript-exercises) | [Source Code](https://github.com/jesusgraterol/javascript-exercises-top)
