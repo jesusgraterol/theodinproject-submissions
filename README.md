@@ -26,7 +26,7 @@
 | [Testing Practice](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice) | Nov 6, 2023 | [Source Code](https://github.com/jesusgraterol/testing-practice-top)
 | [Knights Travails](https://www.theodinproject.com/lessons/javascript-knights-travails) | Nov 1, 2023 | [Source Code](https://github.com/jesusgraterol/knights-travails-top)
 | [Binary Search Trees](https://www.theodinproject.com/lessons/javascript-binary-search-trees) | Nov 1, 2023 | [Source Code](https://github.com/jesusgraterol/binary-search-trees-top)
-| [HashMap](https://www.theodinproject.com/lessons/javascript-hashmap) | Pending... | Pending...
+| [HashMap](https://www.theodinproject.com/lessons/javascript-hashmap) | Feb 1, 2024 | [Source Code](https://github.com/jesusgraterol/hashmap-top)
 | [Linked Lists](https://www.theodinproject.com/lessons/javascript-linked-lists) | Oct 31, 2023 | [Source Code](https://github.com/jesusgraterol/linked-lists-top)
 | [Recursion](https://www.theodinproject.com/lessons/javascript-recursion) | Oct 27, 2023 | [Source Code](https://github.com/jesusgraterol/recursion-top)
 | [Weather App](https://www.theodinproject.com/lessons/node-path-javascript-weather-app) | Oct 24, 2023 | [Source Code](https://github.com/jesusgraterol/weather-top)
